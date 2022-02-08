@@ -58,7 +58,7 @@
 
 ## Contact me :raised_hand_with_fingers_splayed:
 <p align="center">
-    <a href="https://t.me/eestie_bot" target="blank">
+    <a href="https://t.me/eestiebot" target="blank">
         <img align="left" src="https://telegram.org/img/website_icon.svg" alt="Contact with me" height="45" width="45" />
     </a>
     <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
