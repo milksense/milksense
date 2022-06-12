@@ -6,7 +6,7 @@
 
 :new_moon_with_face: Fun fact: I am more productive at night than during the day
 
-:briefcase: I use [Atom][1] :atom:
+:briefcase: I use [Visual Studio Code][1] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="15"/>
 
 [1]: https://atom.io
 
@@ -63,7 +63,6 @@
     </a>
     <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
 </p>
-
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilksense&count_bg=%23313131&title_bg=%23313131&icon=&icon_color=%23000000&title=views&edge_flat=false"/></a>
 </p>
