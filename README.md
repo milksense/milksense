@@ -1,16 +1,14 @@
-## Hi, I am full-stack developer
+## Hi, I am full-stack developer :v:
 
 <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
 
-:page_facing_up: Ask me about front-end development, MERN stack, and coding resources :v:
+:page_facing_up: Currently exploring WebGL and fingerprinting
 
-:new_moon_with_face: Fun fact: I am more productive at night than during the day
+:comet: Fun fact: I am more productive at night than during the day
 
-:briefcase: I use [Visual Studio Code][1] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="15"/>
+:milky_way: I use  [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/>][1] cause [:atom:][2] was suspended
 
-[1]: https://atom.io
-
-## Tech Stack :computer:
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilksense&count_bg=%23313131&title_bg=%23313131&icon=&icon_color=%23000000&title=visitors&edge_flat=false"/>
 
 ### Programming languages
 <p align="left">
@@ -24,6 +22,7 @@
 </p>
 
 ### Libraries or tech
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
@@ -56,13 +55,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## Contact me :raised_hand_with_fingers_splayed:
-<p align="center">
-    <a href="https://t.me/eestiebot" target="blank">
-        <img align="left" src="https://telegram.org/img/website_icon.svg" alt="Contact with me" height="45" width="45" />
-    </a>
-    <img align="center" src="https://metrics.lecoq.io/milksense?template=classic&isocalendar=1&languages=1&lines=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Asia%2FShanghai&base.metadata=0" alt="Metrics" />
-</p>
-<p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilksense&count_bg=%23313131&title_bg=%23313131&icon=&icon_color=%23000000&title=views&edge_flat=false"/></a>
-</p>
+[1]: https://code.visualstudio.com
+[2]: https://github.blog/2022-06-08-sunsetting-atom
