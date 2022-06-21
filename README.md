@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://vlang.io/img/v-logo.png" alt="V" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/3bd307204ac6237963e0448c00800a9df08f245d9e78fbbeb4191e625c834286/68747470733a2f2f64316c66797a356b7774387675392e636c6f756466726f6e742e6e65742f6e61746976657363726970742d6c6f676f2d323032312e706e67" alt="nativescript" width="40" height="40"/>
+    <img src="https://art.nativescript.org/logo/export/NativeScript_Logo_Blue_Transparent.svg" alt="nativescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
@@ -55,5 +55,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+### Projects in which I participated :zap:
+[Disbalancer][3], 2022
+
+#### As well as some closed-source for private use
+ - `swss.exe`, system wide smooth scroll allow you to improve scrolling (non)system apps, avoided AV
+
 [1]: https://code.visualstudio.com
 [2]: https://github.blog/2022-06-08-sunsetting-atom
+[3]: https://uk.wikipedia.org/wiki/Disbalancer
