@@ -59,7 +59,7 @@
 [Disbalancer][3], 2022
 
 #### As well as some closed-source for private use
- - `swss.exe`, system wide smooth scroll allow you to improve scrolling (non)system apps, avoided AV
+ - `swss.exe`, system-wide smooth scroll app for (non)system apps, avoided AV
 
 [1]: https://code.visualstudio.com
 [2]: https://github.blog/2022-06-08-sunsetting-atom
