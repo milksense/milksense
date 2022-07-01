@@ -58,8 +58,15 @@
 ### Projects in which I participated :zap:
 [Disbalancer][3], 2022
 
+#### These open-source thingies
+ - [rayID.ts](//gist.github.com/milksense/afb9a5022a66cfccfc33f1653faf6629), simple [Cloudflare Ray ID](https://developers.cloudflare.com/fundamentals/get-started/reference/cloudflare-ray-id/) generator
+ - [nonce.ts](//gist.github.com/milksense/2ceb52f674666d08d19af34d4c881fc4), simple CSP nonce generator
+
+<details><summary>More...</summary>
+
 #### As well as some closed-source for private use
  - `swss.exe`, system-wide smooth scroll app for (non)system apps, avoided AV
+</details>
 
 [1]: https://code.visualstudio.com
 [2]: https://github.blog/2022-06-08-sunsetting-atom
