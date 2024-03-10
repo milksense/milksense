@@ -21,6 +21,7 @@
 <a href="https://developer.android.com/jetpack/compose"><img height=48 src="./assets/Compose2-Dark.svg"></a>
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 [![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org)
 [![React.js](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Electron.js](https://skillicons.dev/icons?i=electron)](https://electronjs.org)
