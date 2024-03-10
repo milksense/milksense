@@ -14,8 +14,11 @@
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org)
 
-##### ..also
+<details><summary><b>..also</b></summary>
+
 [![Programming languages](https://skillicons.dev/icons?i=v,php,py,c&perline=4)](https://github.com/milksense)
+</details>
+
 
 ### Stack
 <a href="https://developer.android.com/jetpack/compose"><img height=48 src="./assets/Compose2-Dark.svg"></a>
