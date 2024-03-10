@@ -8,23 +8,38 @@
 
 ### Programming languages
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://dev.java/)
-[![WebAssembly](https://skillicons.dev/icons?i=wasm)](https://webassembly.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://dev.java)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org)
+[![WebAssembly](https://skillicons.dev/icons?i=wasm)](https://webassembly.org)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org)
 
-#### ..also
+##### ..also
 [![Programming languages](https://skillicons.dev/icons?i=v,php,py,c&perline=4)](https://github.com/milksense)
 
 ### Stack
-[![Libraries or tech](https://skillicons.dev/icons?i=ktor,spring,flutter,nextjs,svelte,tailwind,deno,bun,react,electron,threejs,tensorflow&perline=5)](https://github.com/milksense)
+<a href="https://developer.android.com/jetpack/compose"><img height=48 src="./assets/Compose2-Dark.svg"></a>
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
+[![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org)
+[![React.js](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Electron.js](https://skillicons.dev/icons?i=electron)](https://electronjs.org)
+
+[![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![Deno](https://skillicons.dev/icons?i=deno)](https://deno.com)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
+
+[![TailWind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
+[![Tensorflow.js](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org/js)
 
 ### System software
 [![System software](https://skillicons.dev/icons?i=linux,nodejs,gradle,git,docker,postgres,mongodb,mysql)](https://github.com/milksense)
 
 ### Other
-[![Other](https://skillicons.dev/icons?i=figma,androidstudio)](https://github.com/milksense)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 
 ### Projects in which I participated :zap:
 [Disbalancer][1] — A decentralized cybersecurity solution that performs stress testing to identify DDoS vulnerabilities and protect projects against fraudsters
