@@ -47,21 +47,14 @@
 
 ### Projects in which I participated :zap:
 
+[Midday][4] — Midday provides you with greater insight into your business and automates the boring tasks, allowing you to focus on what you love to do instead.
+
 [ReVanced][1] — :pill: Continuing the legacy of Vanced 
 
 [Telegraf][2] — Modern Telegram Bot Framework for Node.js
 
 [NextUI][3] — :rocket: Beautiful, fast and modern React UI library
 
-#### These open-source thingies
-- [rayID.ts](//gist.github.com/milksense/afb9a5022a66cfccfc33f1653faf6629), simple [Cloudflare Ray ID](https://developers.cloudflare.com/fundamentals/get-started/reference/cloudflare-ray-id/) generator
-- [nonce.ts](//gist.github.com/milksense/2ceb52f674666d08d19af34d4c881fc4), simple CSP nonce generator
-
-<details><summary>More...</summary>
-    
-#### As well as some closed-source for private use
-- `swss.exe`, system-wide smooth scroll app for **non**-system apps, avoided AV
-</details>
 
 ### Still have questions?
 <p align="center">
@@ -73,3 +66,4 @@
 [1]: https://github.com/revanced
 [2]: https://github.com/telegraf/telegraf
 [3]: https://github.com/nextui-org/nextui
+[4]: https://midday.ai/
