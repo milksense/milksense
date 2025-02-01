@@ -1,4 +1,4 @@
-## Hi, I'm full-stack developer :v:
+## Hi, I'm frontend & mobile developer :v:
 
 <img align="right" alt="Octocat" width="130px" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
