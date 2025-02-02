@@ -53,7 +53,7 @@
 
 [Telegraf][2] — Modern Telegram Bot Framework for Node.js
 
-[NextUI][3] — :rocket: Beautiful, fast and modern React UI library
+[HeroUI][3] — :rocket: Beautiful, fast and modern React UI library (Previously NextUI)
 
 
 ### Still have questions?
