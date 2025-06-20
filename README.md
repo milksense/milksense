@@ -21,14 +21,15 @@
 
 
 ### Projects in which I participated :zap:
-
-[Midday][4] — Midday provides you with greater insight into your business and automates the boring tasks, allowing you to focus on what you love to do instead.
-
-[ReVanced][1] — :pill: Continuing the legacy of Vanced 
-
-[Telegraf][2] — Modern Telegram Bot Framework for Node.js
+[shadcn/ui][5] — shadcn/ui, but for Svelte. ✨
 
 [HeroUI][3] — :rocket: Beautiful, fast and modern React UI library (Previously NextUI)
+
+[Midday][4] — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+[ReVanced][1] — :pill: Continuing the legacy of Vanced
+
+[Telegraf][2] — Modern Telegram Bot Framework for Node.js
 
 ### Stack as web
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
@@ -60,3 +61,4 @@
 [2]: https://github.com/telegraf/telegraf
 [3]: https://github.com/nextui-org/nextui
 [4]: https://midday.ai/
+[5]: https://shadcn-svelte.com
