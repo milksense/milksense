@@ -39,7 +39,7 @@
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 
 ### Stack as mobile
-<a href="https://developer.android.com/jetpack/compose"><img height=48 src="./assets/Compose2-Dark.svg"></a>
+<a href="https://developer.android.com/jetpack/compose"><img height="48" width="48" src="./assets/Compose2-Dark.svg"></a>
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
