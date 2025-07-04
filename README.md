@@ -19,7 +19,7 @@
 
 
 ### Projects in which I participated :zap:
-[shadcn/ui][5] — shadcn/ui, but for Svelte. ✨
+[shadcn-svelte][5] — shadcn/ui, but for Svelte. ✨
 
 [HeroUI][3] — :rocket: Beautiful, fast and modern React UI library (Previously NextUI)
 
