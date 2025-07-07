@@ -30,9 +30,9 @@
 [Telegraf][2] — Modern Telegram Bot Framework for Node.js
 
 ### Stack as web
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
 [![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
 [![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org)
-[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
 [![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
 [![TailWind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
