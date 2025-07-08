@@ -35,14 +35,13 @@
 [![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org)
 [![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
 [![TailWind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+<a href="[https://developer.android.com/jetpack/compose](https://moleculer.services/)"><img height="48" width="48" src="https://moleculer.services/icon/favicon-96x96.png"></a>
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
 ### Stack as mobile
 <a href="https://developer.android.com/jetpack/compose"><img height="48" width="48" src="./assets/Compose2-Dark.svg"></a>
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
 [1]: https://github.com/revanced
 [2]: https://github.com/telegraf/telegraf
