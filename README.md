@@ -35,7 +35,7 @@
 [![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org)
 [![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
 [![TailWind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-<a href="[https://developer.android.com/jetpack/compose](https://moleculer.services/)"><img height="48" width="48" src="https://moleculer.services/icon/favicon-96x96.png"></a>
+<a href="https://moleculer.services/"><img height="48" width="48" src="https://moleculer.services/icon/favicon-96x96.png"></a>
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
 ### Stack as mobile
