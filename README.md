@@ -19,7 +19,7 @@
 
 
 ### Projects in which I participated :zap:
-[Push100][6] — Push-up with friends. Anytime. Anywhere.
+[PUSH100][6] — Push-up with friends. Anytime. Anywhere.
 
 [shadcn-svelte][5] — shadcn/ui, but for Svelte. ✨
 
