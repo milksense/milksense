@@ -21,6 +21,8 @@
 ### Projects in which I participated :zap:
 [PUSH100][6] — Push-up with friends. Anytime. Anywhere.
 
+[Scalar][7] — 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support
+
 [shadcn-svelte][5] — shadcn/ui, but for Svelte. ✨
 
 [HeroUI][3] — :rocket: Beautiful, fast and modern React UI library (Previously NextUI)
@@ -51,3 +53,4 @@
 [4]: https://midday.ai
 [5]: https://shadcn-svelte.com
 [6]: https://push100.com
+[7]: https://scalar.com
