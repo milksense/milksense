@@ -25,7 +25,9 @@
 
 [shadcn-svelte][5] — shadcn/ui, but for Svelte. ✨
 
-[HeroUI][3] — :rocket: Beautiful, fast and modern React UI library (Previously NextUI)
+[HeroUI][3] — Beautiful, fast and modern React UI library (Previously NextUI)
+
+[HeroUI Native][8] — Beautiful, fast and modern React Native UI library
 
 [Midday][4] — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 
@@ -54,3 +56,4 @@
 [5]: https://shadcn-svelte.com
 [6]: https://push100.com
 [7]: https://scalar.com
+[8]: https://github.com/heroui-inc/heroui-native
