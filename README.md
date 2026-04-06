@@ -19,7 +19,7 @@
 
 
 ### Projects in which I participated :zap:
-[PUSH100][6] — Push-up with friends. Anytime. Anywhere.
+__(PAUSED)__ [PUSH100][6] — Push-up with friends. Anytime. Anywhere.
 
 [Scalar][7] — 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support
 
